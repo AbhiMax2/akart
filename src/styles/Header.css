@@ -1,0 +1,17 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 20px;
+}

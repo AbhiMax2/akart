@@ -1,0 +1,42 @@
+body, html {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  overflow-x: hidden; 
+  width: 100%;
+}
+
+.loading {
+  text-align: center;
+  padding: 50px;
+  font-size: 1.5em;
+}
+
+.container{
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+    padding-top: 0; 
+}
+* {
+  box-sizing: border-box; 
+}
+.row {
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+img, .card-img-top, .product-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
